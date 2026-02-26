@@ -1,35 +1,62 @@
-# 👋 Olá, eu sou Vitor Falcochio
+<h1 align="center">🚀 Hi, I'm Vitor Falcochio</h1>
+<h3 align="center">💻 Developer • 🚀 Entrepreneur • 🤖 AI & SaaS Builder</h3>
 
-💻 Desenvolvedor | 🚀 Empreendedor | 🤖 Interessado em IA & SaaS
-
----
-
-## 🧠 Sobre mim
-
-- 🎓 Estudante / Desenvolvedor
-- 🚀 Criando projetos em React, Next.js e Python
-- 🤖 Explorando IA, automações e SaaS
-- 📍 Brasil
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Developer;SaaS+Builder;Automation+Lover;Future+Tech+Founder" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+<h3 align="left">🧠 About me:</h3>
 
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-
----
-
-## 📌 Projetos em destaque
-
-- 🚀 [Fenado AI](link)
-- 💼 [Control Service](link)
-- 🛒 [Marketplace MVP](link)
+- 🚀 Building digital products & systems  
+- 🤖 Exploring AI, Automations & SaaS  
+- 💡 Passionate about tech & business  
+- 🇧🇷 Based in Brazil  
 
 ---
 
-## 📫 Contato
+<h3 align="left">🌎 Connect with me:</h3>
 
-- 💼 LinkedIn: link
-- 🌐 Portfólio: link
+<p align="left">
+<a href="https://instagram.com/vitoor_pfl" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="SEU_LINKEDIN_AQUI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+<h3 align="left">⚙️ Main Stack:</h3>
+
+<p align="left">
+React • Next.js • Python • Tailwind • Node.js
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorFalcochio&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFalcochio&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">⚡ "Building things that should exist."</h3>

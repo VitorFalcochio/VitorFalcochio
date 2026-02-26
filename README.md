@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Developer;SaaS+Builder;Automation+Lover;Future+Tech+Founder" />
 </p>
 
-
+---
 
 <h3 align="left">🧠 About me:</h3>
 
@@ -14,6 +14,7 @@
 - 💡 Passionate about tech & business  
 - 🇧🇷 Based in Brazil  
 
+---
 
 <h3 align="left">🌎 Connect with me:</h3>
 
@@ -26,7 +27,7 @@
 </a>
 </p>
 
-
+---
 
 <h3 align="left">⚙️ Main Stack:</h3>
 
@@ -34,7 +35,7 @@
 React • Next.js • Python • Tailwind • Node.js
 </p>
 
-
+---
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
@@ -47,7 +48,7 @@ React • Next.js • Python • Tailwind • Node.js
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
-
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 

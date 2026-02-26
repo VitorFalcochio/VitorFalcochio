@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou Vitor Falcochio
 
-<!--
-**VitorFalcochio/VitorFalcochio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor | 🚀 Empreendedor | 🤖 Interessado em IA & SaaS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎓 Estudante / Desenvolvedor
+- 🚀 Criando projetos em React, Next.js e Python
+- 🤖 Explorando IA, automações e SaaS
+- 📍 Brasil
+
+---
+
+## ⚡ Tech Stack
+
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+
+---
+
+## 📌 Projetos em destaque
+
+- 🚀 [Fenado AI](link)
+- 💼 [Control Service](link)
+- 🛒 [Marketplace MVP](link)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: link
+- 🌐 Portfólio: link
